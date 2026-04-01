@@ -1,0 +1,88 @@
+www.ijemr.net ISSN (ONLINE): 2250-0758, ISSN (PRINT): 2394-6962 
+ 
+  269 Copyright © 2017. Vandana Publications. All Rights Reserved. 
+ 
+       Volume-7, Issue-3, May-June 2017 
+International Journal of Engineering and Management Research 
+Page Number: 269-272 
+ 
+ 
+ 
+A Review on Database Security 
+ 
+Shelly1, Gurleen Kaur2 
+1Assistant Professor (CSE), Rayat-Bahra University, Mohali, INDIA 
+2Student of M. Tech (CSE), Rayat-Bahra University, Mohali, INDIA 
+ 
+ 
+ABSTRACT 
+Protecting data is at heart of many secure systems 
+and many users depend on a database management system to 
+manage the protection. This paper is all about the security of 
+database management systems, as an example of how 
+application security can be designed and implemented for 
+specific task. There is substantial current interest in a DBMS 
+Security because databases are newer than the progr amming 
+and operating systems. Databases are essential to many 
+business and government organizations, to make the retrieval 
+and maintenance of data easy and efficient it is stored in a 
+database. Database organization and co ntents are considered 
+valuable cor porate assets that must be carefully protected 
+because databases are a favorite target for attackers. The 
+basic security requirements of database system are not unlike 
+those of other computing system. The basic problems are 
+access control, exclusion of spe cious data, authentication of 
+users and reliability. In this paper the challenges and threats 
+in database security are identified.     
+ 
+Keywords--- Attack, Database Security, Integrity, Threat 
+ 
+ 
+I. INTRODUCTION 
+ 
+Protecting data is the heart of many secure 
+systems and many users depend  on a database 
+management system to manage the protection. Databases 
+are essential to many business and government 
+organizations, holding data that re -engineered to make 
+them more effective and more  tunes with new and revised 
+goals [1]. Database security is difficult operation that any 
+organization should enhance in order to run its activities 
+smoothly. The various threats pose a challenge to the 
+organization in terms of integrity of the data and access. 
+The threats can result from either by an outside illegal 
+program action or by an outside force such as fire or a 
+power failure [1]. Most of the database contains sensitive 
+data for users which can be unprotected  to hacking and 
+misuse [3].Therefore, firms have greater control and check 
+on their database to maintain the integrity of the 
+information and ensure  that their systems are monitored 
+closely to avoid deliberate violations by intruders.  
+ 
+II. THREATS OF DATABASE 
+SECURITY 
+ 
+Database security issues have been more complex 
+due to widespread use. Database are a firm main resource 
+and therefore, policies and proce dure must be put into 
+place to safeguard its security and the integrity of the data 
+it by contains. Besides, access to the database has been 
+become more widespread due to the internet and intranets 
+therefore, increasing the risks of unauthorized access. Th e 
+objective of database security is to protect database from 
+accident or intentional los. These threats pose a risk on the 
+integrity of the data and its reliability. Database security 
+allows a  refuses users from performing actions on the 
+database. There ar e different threats to the database 
+systems. Such as Excessive Privilege Abuse when users 
+are granted database access privileges that exceed the 
+requirements of their job function, these privileges may be 
+abused for malicious purpose [3].  Another threat i s a weak 
+audit trial.  
+ 
+ 
+Figure 1: Threats of database security [3] 
+ 
+This is due to weakness in organizational intern al 
+system. This is due to weak deterrence mechanism. Denial 
+ 
